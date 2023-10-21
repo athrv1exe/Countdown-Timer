@@ -1,5 +1,5 @@
 # Countdown-Timer
-A simple countdown timer made by implementing fundamentals of DOM and JS with an essence of Aesthetic CSS Styling inspired by creators from CodePen.io. This is a project created for OpenWeaver Internship. It allows users to set a countdown timer for a specified duration and start the countdown.
+A simple countdown timer made by implementing fundamentals of DOM and JS with an essence of Aesthetic CSS Styling inspired by creators from CodePen.io. This is a project created for the OpenWeaver Internship. It allows users to set a countdown timer for a specified duration and start the countdown.
 
 ## Features
 
@@ -26,7 +26,7 @@ To use the Countdown Timer:
 
 ## Credits
 
-This project was created as part of an assignment for OpenWeaver.
+This project was created as part of an assignment for the OpenWeaver Internship by Atharva M. Kulkarni
 
 ## License
 
